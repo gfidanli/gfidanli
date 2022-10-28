@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Fidanli</h1>
 <h3 align="center">A data analyst with a passion for trading equities and cryptocurrencies</h3>
 
-- 🔭 I’m currently working on [cryptocurrency price analysis](https://github.com/gfidanli/crypto-algo-trading)
+- 🔭 I’m currently working on [fantasy football analysis](https://github.com/gfidanli/fantasy_football_analysis)
 
 - 🌱 I’m currently learning **python, matplotlib, seaborn, sql**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gfidanli@gmail.com**
 
-- ⚡ Fun fact **I can clap with one hand**
+- 🐦 I post a data analysis tweet every day on [Twitter](https://twitter.com/sergiofidanli/status/1584680774946934784)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
