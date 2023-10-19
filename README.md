@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gfidanli](https://github.com/gfidanli)
 
-- 💬 Ask me about **technical analysis for trading**
+- 💬 Ask me about **algorithmic trading or fantasy football**
 
 - 📫 How to reach me **gfidanli@gmail.com**
 
-- 🐦 I post a data analysis tweet every day on [Twitter](https://twitter.com/sergiofidanli/status/1584680774946934784)
+- 🐦 I used to analyze fantasy football on a daily basis [Twitter](https://twitter.com/sergiofidanli/status/1584680774946934784)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
